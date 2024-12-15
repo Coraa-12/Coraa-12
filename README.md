@@ -21,17 +21,11 @@ tech_stack = {
 
 ### 🎯 Featured Projects
 
-#### [Python_100Days_Projects]
-- Built with: Python
-- This section contains all my Python learning materials and exercises. The course provides a comprehensive introduction to Python programming through practical, hands-on projects and daily coding challenges.
+#### [HydroBuddy]
+- Built with Python
+- HydroBuddy is a simple hydration reminder application designed to help you stay hydrated by sending notifications at regular intervals. It logs each reminder to a file and plays a sound to alert you, ensuring you never forget to drink water throughout the day.
 - Features: Test automation
-- [View Project](https://github.com/Coraa-12/Python_100Days_Projects)
-
-#### [Java_17_Masterclass_2024]
-- Built with: Java, JavaFX
-- This section contains my Java learning materials and exercises. The course focuses on teaching Java 17 features and modern Java development practices.
-- Key features: Currently None
-- [View Project](https://github.com/Coraa-12/Java_17_Masterclass_2024)
+- [View Project](https://github.com/Coraa-12/HydroBuddy)
 
 ### 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
