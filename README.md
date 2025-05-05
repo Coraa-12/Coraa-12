@@ -1,6 +1,5 @@
 # Anita Masses
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tegar-wijaya-kusuma-591a881b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coraa-12)
 
 ### 🛠️ Tech Stack
@@ -38,7 +37,7 @@ tech_stack = {
 - [Another Repository]: Brief description of what you contributed
 
 ### 📫 Get in Touch
-- For collaborations: [tegarwijayakusuma2004@gmail.com]
+- For collaborations: [tgr.wjya.queue.top126@pm.me]
 - Technical discussions: Create an [issue](https://github.com/Coraa-12/Coraa-12/issues)
 
 ---
